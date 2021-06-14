@@ -3,7 +3,7 @@
  */
 package proxyservice;
 
-public class Library {
+public class ProxyServer {
     public boolean someLibraryMethod() {
         return true;
     }
